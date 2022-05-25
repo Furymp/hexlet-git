@@ -1,2 +1,1 @@
-new line1
-experiment with amend
+add new feauture and fix something
