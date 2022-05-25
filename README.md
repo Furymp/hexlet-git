@@ -1,1 +1,1 @@
-Hello, Kitty!
+Hello, Hexlet! How are you?
